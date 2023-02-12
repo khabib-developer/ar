@@ -1,0 +1,11 @@
+Model Information:
+* title:	eyeglasses (subject visualization)
+* source:	https://sketchfab.com/3d-models/eyeglasses-subject-visualization-5b50e95fc80648bfb95f0faa27e24781
+* author:	Robin Bad (https://sketchfab.com/u-76)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "eyeglasses (subject visualization)" (https://sketchfab.com/3d-models/eyeglasses-subject-visualization-5b50e95fc80648bfb95f0faa27e24781) by Robin Bad (https://sketchfab.com/u-76) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
